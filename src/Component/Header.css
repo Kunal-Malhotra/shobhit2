@@ -1,0 +1,17 @@
+.Rectangle-1{
+    width: 1440px;
+    height: 75px;
+    margin: 21px 0 0;
+    padding: 9px 40px 17px 26px;
+    background-image: linear-gradient(to top, #000, rgba(30, 17, 10, 0.65), rgba(27, 15, 8, 0.74), rgba(0, 0, 0, 0.99));
+}
+.navbar{
+    background-color: rgb(22,28,31);
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+a {
+    color: white !important;
+}

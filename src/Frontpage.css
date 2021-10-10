@@ -1,0 +1,104 @@
+.builder{
+    width: 100%;
+    height: 100%;
+}
+.description {
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    font-weight: bolder;
+    font-size: 8vh;
+}
+.description1{
+    color: #e45200;
+}
+.pexels-soner-mazlum-6890408-1 {
+    margin: 5rem auto;
+    padding-top: .5rem;
+    background-image: url("images/pexels.png");
+    height: 572px;
+  }
+  .Ready-to-start-your-next-project-with-us-Thats-great-Give-us-a-call-or-email-us-and-we-will-get-b {
+    height: 74px;
+    text-align: center;
+    font-family: Sansation;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    color: #000;
+  }
+  .Rectangle-6 {
+	text-align: center;
+	width: 686.8px;
+  	height: 107.1px;
+		padding: 11.4px 56.7px 11.7px 57.1px;
+  	border-radius: 12px;
+  	border-image: linear-gradient(to top, #e45200, rgba(228, 82, 0, 0.58), rgba(235, 0, 0, 0.82), rgba(235, 0, 0, 0.9), rgba(228, 82, 0, 0.61), #e45200);
+  	background-color: #fff;
+}
+.Rectangle-5{
+  margin: 4rem auto;
+  width: 700px;
+  height: 120px;
+  padding: 6.5px 6.6px 6.5px 6.6px;
+  border-radius: 15px;
+  background-image: linear-gradient(to top, #e45200, rgba(228, 82, 0, 0.58), rgba(235, 0, 0, 0.82), rgba(235, 0, 0, 0.9), rgba(228, 82, 0, 0.61), #e45200);
+}
+.We-Deal-In {
+    width: 560.6px;
+    height: 50.3px;
+    font-family: Sansation;
+    font-size: 65px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -1.5px;
+    text-align: center;
+    color: #000;
+  }
+  .background {
+	background: #dedec8;
+	padding: 4em 0;
+    margin : 2rem 0;
+}
+
+.team {
+	color: #5e5e55;
+	padding: 0 180px;
+}
+
+.team .card-columns {
+	-webkit-column-count: 4;
+	-moz-column-count: 4;
+	column-count: 4;
+}
+
+.team .card {
+	background:none;
+	border: none;
+}
+.products {
+  background-image: url("./images/Screenshot.png");
+  background-size: auto;
+}
+.team .card-title {
+	font-size: 1.3rem;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+  @media (max-width: 575.98px) {
+  .Rectangle-5{
+	width: 100%;
+	}
+
+  .Rectangle-6{
+	width: 100%;
+	}
+ .We-Deal-In {
+  	font-size: 2rem;
+	}
+
+}
